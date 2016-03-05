@@ -22,3 +22,5 @@ twbs:bootstrap
 iron:router
 pcel:loading
 ejson
+ian:accounts-ui-bootstrap-3
+accounts-password
