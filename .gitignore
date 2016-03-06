@@ -1,0 +1,5 @@
+.idea
+node_modules
+settings.json
+settings.development.json
+.DS_Store
